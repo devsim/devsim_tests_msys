@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "read_nmos.py", line 17, in <module>
+    result = create_genius_mesh(file=mesh_name+".cgns", mesh=mesh_name)
+devsim_py3.error: Genius reader support not available in this version
+

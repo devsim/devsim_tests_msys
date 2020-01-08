@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "genius_diode2d.py", line 16, in <module>
+    from python_packages.simple_physics import *
+ModuleNotFoundError: No module named 'python_packages'

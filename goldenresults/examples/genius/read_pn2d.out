@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "read_pn2d.py", line 18, in <module>
+    result = create_genius_mesh(file=mesh_name+".cgns", mesh=mesh_name)
+devsim_py3.error: Genius reader support not available in this version
+

@@ -1,0 +1,364 @@
+Creating Region air1
+Creating Region MyRegion
+Creating Region air2
+Contact: top region MyRegion ni: 16 ci: 19 (0, 8e-06, 0)
+Contact: top region MyRegion ni: 18 ci: 20 (0, 9e-06, 0)
+Contact: top region MyRegion ni: 20 ci: 21 (0, 1e-05, 0)
+Contact: bot region MyRegion ni: 484 ci: 495 (1e-05, 0, 0)
+Contact: bot region MyRegion ni: 485 ci: 496 (1e-05, 1e-06, 0)
+Contact: bot region MyRegion ni: 486 ci: 497 (1e-05, 2e-06, 0)
+Contact: bot region MyRegion ni: 487 ci: 498 (1e-05, 3e-06, 0)
+Contact: bot region MyRegion ni: 488 ci: 499 (1e-05, 4e-06, 0)
+Contact: bot region MyRegion ni: 489 ci: 500 (1e-05, 5e-06, 0)
+Contact: bot region MyRegion ni: 490 ci: 501 (1e-05, 6e-06, 0)
+Contact: bot region MyRegion ni: 491 ci: 502 (1e-05, 7e-06, 0)
+Contact: bot region MyRegion ni: 492 ci: 503 (1e-05, 8e-06, 0)
+Contact: bot region MyRegion ni: 493 ci: 504 (1e-05, 9e-06, 0)
+Contact: bot region MyRegion ni: 494 ci: 505 (1e-05, 1e-05, 0)
+Adding 495 nodes
+Adding 1374 edges with 1266 duplicates removed
+Adding 880 triangles  with 0 duplicate removed
+Adding 22 nodes
+Adding 41 edges with 19 duplicates removed
+Adding 20 triangles  with 0 duplicate removed
+Adding 22 nodes
+Adding 41 edges with 19 duplicates removed
+Adding 20 triangles  with 0 duplicate removed
+Contact bot in region MyRegion with 11 nodes
+Contact top in region MyRegion with 3 nodes
+Region "MyRegion" on device "MyDevice" has equations 0:494
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:494
+number of equations 495
+Iteration: 0
+  Device: "MyDevice"	RelError: 1.00000e+00	AbsError: 1.18567e-01
+    Region: "MyRegion"	RelError: 1.00000e+00	AbsError: 1.18567e-01
+      Equation: "PotentialEquation"	RelError: 1.00000e+00	AbsError: 1.18567e-01
+Iteration: 1
+  Device: "MyDevice"	RelError: 4.97350e-01	AbsError: 1.17317e-01
+    Region: "MyRegion"	RelError: 4.97350e-01	AbsError: 1.17317e-01
+      Equation: "PotentialEquation"	RelError: 4.97350e-01	AbsError: 1.17317e-01
+Iteration: 2
+  Device: "MyDevice"	RelError: 6.18329e-01	AbsError: 1.15853e-01
+    Region: "MyRegion"	RelError: 6.18329e-01	AbsError: 1.15853e-01
+      Equation: "PotentialEquation"	RelError: 6.18329e-01	AbsError: 1.15853e-01
+Iteration: 3
+  Device: "MyDevice"	RelError: 1.05154e+02	AbsError: 1.04169e-01
+    Region: "MyRegion"	RelError: 1.05154e+02	AbsError: 1.04169e-01
+      Equation: "PotentialEquation"	RelError: 1.05154e+02	AbsError: 1.04169e-01
+Iteration: 4
+  Device: "MyDevice"	RelError: 1.79077e+01	AbsError: 8.36778e-02
+    Region: "MyRegion"	RelError: 1.79077e+01	AbsError: 8.36778e-02
+      Equation: "PotentialEquation"	RelError: 1.79077e+01	AbsError: 8.36778e-02
+Iteration: 5
+  Device: "MyDevice"	RelError: 7.69366e+01	AbsError: 7.87874e-02
+    Region: "MyRegion"	RelError: 7.69366e+01	AbsError: 7.87874e-02
+      Equation: "PotentialEquation"	RelError: 7.69366e+01	AbsError: 7.87874e-02
+Iteration: 6
+  Device: "MyDevice"	RelError: 2.69506e+01	AbsError: 6.28109e-02
+    Region: "MyRegion"	RelError: 2.69506e+01	AbsError: 6.28109e-02
+      Equation: "PotentialEquation"	RelError: 2.69506e+01	AbsError: 6.28109e-02
+Iteration: 7
+  Device: "MyDevice"	RelError: 4.55468e+01	AbsError: 5.24596e-02
+    Region: "MyRegion"	RelError: 4.55468e+01	AbsError: 5.24596e-02
+      Equation: "PotentialEquation"	RelError: 4.55468e+01	AbsError: 5.24596e-02
+Iteration: 8
+  Device: "MyDevice"	RelError: 3.01156e+02	AbsError: 4.37414e-02
+    Region: "MyRegion"	RelError: 3.01156e+02	AbsError: 4.37414e-02
+      Equation: "PotentialEquation"	RelError: 3.01156e+02	AbsError: 4.37414e-02
+Iteration: 9
+  Device: "MyDevice"	RelError: 1.86042e+02	AbsError: 3.37983e-02
+    Region: "MyRegion"	RelError: 1.86042e+02	AbsError: 3.37983e-02
+      Equation: "PotentialEquation"	RelError: 1.86042e+02	AbsError: 3.37983e-02
+Iteration: 10
+  Device: "MyDevice"	RelError: 1.02977e+02	AbsError: 2.57010e-02
+    Region: "MyRegion"	RelError: 1.02977e+02	AbsError: 2.57010e-02
+      Equation: "PotentialEquation"	RelError: 1.02977e+02	AbsError: 2.57010e-02
+Iteration: 11
+  Device: "MyDevice"	RelError: 3.12367e-01	AbsError: 1.31004e-02
+    Region: "MyRegion"	RelError: 3.12367e-01	AbsError: 1.31004e-02
+      Equation: "PotentialEquation"	RelError: 3.12367e-01	AbsError: 1.31004e-02
+Iteration: 12
+  Device: "MyDevice"	RelError: 2.32363e-02	AbsError: 6.92465e-06
+    Region: "MyRegion"	RelError: 2.32363e-02	AbsError: 6.92465e-06
+      Equation: "PotentialEquation"	RelError: 2.32363e-02	AbsError: 6.92465e-06
+Iteration: 13
+  Device: "MyDevice"	RelError: 1.28496e-07	AbsError: 5.25536e-11
+    Region: "MyRegion"	RelError: 1.28496e-07	AbsError: 5.25536e-11
+      Equation: "PotentialEquation"	RelError: 1.28496e-07	AbsError: 5.25536e-11
+Iteration: 14
+  Device: "MyDevice"	RelError: 5.65701e-13	AbsError: 1.06333e-16
+    Region: "MyRegion"	RelError: 5.65701e-13	AbsError: 1.06333e-16
+      Equation: "PotentialEquation"	RelError: 5.65701e-13	AbsError: 1.06333e-16
+Warning: Replacing equation with equation of the same name.
+Region: MyRegion, Equation: PotentialEquation, Variable: Potential
+Region "MyRegion" on device "MyDevice" has equations 0:1484
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:1484
+number of equations 1485
+Iteration: 0
+  Device: "MyDevice"	RelError: 2.92823e-13	AbsError: 1.02400e+04
+    Region: "MyRegion"	RelError: 2.92823e-13	AbsError: 1.02400e+04
+      Equation: "ElectronContinuityEquation"	RelError: 1.18798e-14	AbsError: 5.12000e+03
+      Equation: "HoleContinuityEquation"	RelError: 1.10158e-14	AbsError: 5.12000e+03
+      Equation: "PotentialEquation"	RelError: 2.69928e-13	AbsError: 1.37229e-16
+Region "MyRegion" on device "MyDevice" has equations 0:1484
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:1484
+number of equations 1485
+Iteration: 0
+  Device: "MyDevice"	RelError: 2.55956e-13	AbsError: 2.46488e+02
+    Region: "MyRegion"	RelError: 2.55956e-13	AbsError: 2.46488e+02
+      Equation: "ElectronContinuityEquation"	RelError: 5.12772e-15	AbsError: 1.38794e+02
+      Equation: "HoleContinuityEquation"	RelError: 3.23900e-15	AbsError: 1.07694e+02
+      Equation: "PotentialEquation"	RelError: 2.47589e-13	AbsError: 5.01518e-17
+top	0.0	-1.4385913788617093e-30	8.571767387550008e-16	8.571767387549994e-16
+bot	0.0	2.2244446225051006e-15	2.331315051526054e-30	2.224444622505103e-15
+Region "MyRegion" on device "MyDevice" has equations 0:1484
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:1484
+number of equations 1485
+Iteration: 0
+  Device: "MyDevice"	RelError: 3.35500e+01	AbsError: 2.04061e+17
+    Region: "MyRegion"	RelError: 3.35500e+01	AbsError: 2.04061e+17
+      Equation: "ElectronContinuityEquation"	RelError: 7.92143e-01	AbsError: 1.03524e+17
+      Equation: "HoleContinuityEquation"	RelError: 7.74400e-01	AbsError: 1.00537e+17
+      Equation: "PotentialEquation"	RelError: 3.19834e+01	AbsError: 4.09542e-02
+Iteration: 1
+  Device: "MyDevice"	RelError: 1.53701e+02	AbsError: 2.32376e+16
+    Region: "MyRegion"	RelError: 1.53701e+02	AbsError: 2.32376e+16
+      Equation: "ElectronContinuityEquation"	RelError: 6.90020e-01	AbsError: 1.25519e+16
+      Equation: "HoleContinuityEquation"	RelError: 7.54207e-01	AbsError: 1.06857e+16
+      Equation: "PotentialEquation"	RelError: 1.52257e+02	AbsError: 3.07632e-02
+Iteration: 2
+  Device: "MyDevice"	RelError: 1.52020e+00	AbsError: 1.60090e+15
+    Region: "MyRegion"	RelError: 1.52020e+00	AbsError: 1.60090e+15
+      Equation: "ElectronContinuityEquation"	RelError: 5.11552e-01	AbsError: 4.38115e+14
+      Equation: "HoleContinuityEquation"	RelError: 4.96210e-01	AbsError: 1.16278e+15
+      Equation: "PotentialEquation"	RelError: 5.12434e-01	AbsError: 2.44131e-02
+Iteration: 3
+  Device: "MyDevice"	RelError: 5.47461e-01	AbsError: 1.12296e+15
+    Region: "MyRegion"	RelError: 5.47461e-01	AbsError: 1.12296e+15
+      Equation: "ElectronContinuityEquation"	RelError: 2.68399e-01	AbsError: 5.20987e+13
+      Equation: "HoleContinuityEquation"	RelError: 8.19170e-02	AbsError: 1.07086e+15
+      Equation: "PotentialEquation"	RelError: 1.97145e-01	AbsError: 9.16533e-03
+Iteration: 4
+  Device: "MyDevice"	RelError: 5.56270e-01	AbsError: 1.11790e+15
+    Region: "MyRegion"	RelError: 5.56270e-01	AbsError: 1.11790e+15
+      Equation: "ElectronContinuityEquation"	RelError: 8.87983e-02	AbsError: 8.36022e+13
+      Equation: "HoleContinuityEquation"	RelError: 4.68506e-03	AbsError: 1.03430e+15
+      Equation: "PotentialEquation"	RelError: 4.62786e-01	AbsError: 6.60646e-05
+Iteration: 5
+  Device: "MyDevice"	RelError: 1.88970e-04	AbsError: 1.97826e+11
+    Region: "MyRegion"	RelError: 1.88970e-04	AbsError: 1.97826e+11
+      Equation: "ElectronContinuityEquation"	RelError: 1.27970e-04	AbsError: 9.68704e+09
+      Equation: "HoleContinuityEquation"	RelError: 7.97609e-06	AbsError: 1.88139e+11
+      Equation: "PotentialEquation"	RelError: 5.30237e-05	AbsError: 7.13412e-09
+Iteration: 6
+  Device: "MyDevice"	RelError: 1.22393e-11	AbsError: 3.70374e+03
+    Region: "MyRegion"	RelError: 1.22393e-11	AbsError: 3.70374e+03
+      Equation: "ElectronContinuityEquation"	RelError: 7.93370e-12	AbsError: 5.76236e+02
+      Equation: "HoleContinuityEquation"	RelError: 9.85117e-13	AbsError: 3.12750e+03
+      Equation: "PotentialEquation"	RelError: 3.32044e-12	AbsError: 3.15432e-16
+top	0.1	1.009012651359442e-14	1.4902014496792506e-14	2.4992141010386927e-14
+bot	0.0	-9.63137192935719e-15	-1.4046793026714912e-14	-2.3678164956072103e-14
+Region "MyRegion" on device "MyDevice" has equations 0:1484
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:1484
+number of equations 1485
+Iteration: 0
+  Device: "MyDevice"	RelError: 8.90547e+00	AbsError: 2.17497e+17
+    Region: "MyRegion"	RelError: 8.90547e+00	AbsError: 2.17497e+17
+      Equation: "ElectronContinuityEquation"	RelError: 7.94113e-01	AbsError: 1.07465e+17
+      Equation: "HoleContinuityEquation"	RelError: 7.89474e-01	AbsError: 1.10033e+17
+      Equation: "PotentialEquation"	RelError: 7.32188e+00	AbsError: 4.09542e-02
+Iteration: 1
+  Device: "MyDevice"	RelError: 3.99901e+00	AbsError: 2.61661e+16
+    Region: "MyRegion"	RelError: 3.99901e+00	AbsError: 2.61661e+16
+      Equation: "ElectronContinuityEquation"	RelError: 6.88188e-01	AbsError: 1.31169e+16
+      Equation: "HoleContinuityEquation"	RelError: 7.74614e-01	AbsError: 1.30492e+16
+      Equation: "PotentialEquation"	RelError: 2.53620e+00	AbsError: 3.07632e-02
+Iteration: 2
+  Device: "MyDevice"	RelError: 7.57148e+00	AbsError: 1.68853e+15
+    Region: "MyRegion"	RelError: 7.57148e+00	AbsError: 1.68853e+15
+      Equation: "ElectronContinuityEquation"	RelError: 5.14340e-01	AbsError: 3.59781e+14
+      Equation: "HoleContinuityEquation"	RelError: 4.90694e-01	AbsError: 1.32875e+15
+      Equation: "PotentialEquation"	RelError: 6.56644e+00	AbsError: 2.51366e-02
+Iteration: 3
+  Device: "MyDevice"	RelError: 3.96013e-01	AbsError: 1.02169e+15
+    Region: "MyRegion"	RelError: 3.96013e-01	AbsError: 1.02169e+15
+      Equation: "ElectronContinuityEquation"	RelError: 2.80219e-01	AbsError: 4.11478e+13
+      Equation: "HoleContinuityEquation"	RelError: 8.26893e-02	AbsError: 9.80542e+14
+      Equation: "PotentialEquation"	RelError: 3.31046e-02	AbsError: 9.16533e-03
+Iteration: 4
+  Device: "MyDevice"	RelError: 1.23569e-01	AbsError: 9.37709e+14
+    Region: "MyRegion"	RelError: 1.23569e-01	AbsError: 9.37709e+14
+      Equation: "ElectronContinuityEquation"	RelError: 9.02708e-02	AbsError: 7.34999e+13
+      Equation: "HoleContinuityEquation"	RelError: 3.62880e-03	AbsError: 8.64209e+14
+      Equation: "PotentialEquation"	RelError: 2.96693e-02	AbsError: 5.90388e-05
+Iteration: 5
+  Device: "MyDevice"	RelError: 1.21413e-04	AbsError: 1.30711e+11
+    Region: "MyRegion"	RelError: 1.21413e-04	AbsError: 1.30711e+11
+      Equation: "ElectronContinuityEquation"	RelError: 1.13888e-04	AbsError: 7.29976e+09
+      Equation: "HoleContinuityEquation"	RelError: 5.28495e-06	AbsError: 1.23411e+11
+      Equation: "PotentialEquation"	RelError: 2.23987e-06	AbsError: 4.15545e-09
+Iteration: 6
+  Device: "MyDevice"	RelError: 5.05757e-12	AbsError: 2.17396e+03
+    Region: "MyRegion"	RelError: 5.05757e-12	AbsError: 2.17396e+03
+      Equation: "ElectronContinuityEquation"	RelError: 4.57082e-12	AbsError: 2.61422e+02
+      Equation: "HoleContinuityEquation"	RelError: 3.94866e-13	AbsError: 1.91253e+03
+      Equation: "PotentialEquation"	RelError: 9.18765e-14	AbsError: 1.38286e-16
+top	0.2	4.734773785462519e-13	6.581968997751378e-13	1.1316742783213897e-12
+bot	0.0	-4.796734800829062e-13	-6.481225904139336e-13	-1.12779607049684e-12
+Region "MyRegion" on device "MyDevice" has equations 0:1484
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:1484
+number of equations 1485
+Iteration: 0
+  Device: "MyDevice"	RelError: 5.62852e+00	AbsError: 2.18416e+17
+    Region: "MyRegion"	RelError: 5.62852e+00	AbsError: 2.18416e+17
+      Equation: "ElectronContinuityEquation"	RelError: 7.94150e-01	AbsError: 1.07251e+17
+      Equation: "HoleContinuityEquation"	RelError: 7.91908e-01	AbsError: 1.11165e+17
+      Equation: "PotentialEquation"	RelError: 4.04246e+00	AbsError: 4.09542e-02
+Iteration: 1
+  Device: "MyDevice"	RelError: 1.32141e+02	AbsError: 2.88679e+16
+    Region: "MyRegion"	RelError: 1.32141e+02	AbsError: 2.88679e+16
+      Equation: "ElectronContinuityEquation"	RelError: 6.89385e-01	AbsError: 1.59316e+16
+      Equation: "HoleContinuityEquation"	RelError: 7.75444e-01	AbsError: 1.29363e+16
+      Equation: "PotentialEquation"	RelError: 1.30676e+02	AbsError: 3.07632e-02
+Iteration: 2
+  Device: "MyDevice"	RelError: 2.02330e+00	AbsError: 2.67288e+15
+    Region: "MyRegion"	RelError: 2.02330e+00	AbsError: 2.67288e+15
+      Equation: "ElectronContinuityEquation"	RelError: 5.13399e-01	AbsError: 9.23928e+14
+      Equation: "HoleContinuityEquation"	RelError: 4.95102e-01	AbsError: 1.74895e+15
+      Equation: "PotentialEquation"	RelError: 1.01480e+00	AbsError: 2.57942e-02
+Iteration: 3
+  Device: "MyDevice"	RelError: 4.21153e-01	AbsError: 8.44785e+14
+    Region: "MyRegion"	RelError: 4.21153e-01	AbsError: 8.44785e+14
+      Equation: "ElectronContinuityEquation"	RelError: 2.87875e-01	AbsError: 3.08121e+13
+      Equation: "HoleContinuityEquation"	RelError: 8.14548e-02	AbsError: 8.13973e+14
+      Equation: "PotentialEquation"	RelError: 5.18226e-02	AbsError: 9.16533e-03
+Iteration: 4
+  Device: "MyDevice"	RelError: 9.65379e-02	AbsError: 7.36341e+14
+    Region: "MyRegion"	RelError: 9.65379e-02	AbsError: 7.36341e+14
+      Equation: "ElectronContinuityEquation"	RelError: 9.05007e-02	AbsError: 7.11264e+13
+      Equation: "HoleContinuityEquation"	RelError: 2.67520e-03	AbsError: 6.65215e+14
+      Equation: "PotentialEquation"	RelError: 3.36196e-03	AbsError: 4.88434e-05
+Iteration: 5
+  Device: "MyDevice"	RelError: 9.55208e-05	AbsError: 7.40398e+10
+    Region: "MyRegion"	RelError: 9.55208e-05	AbsError: 7.40398e+10
+      Equation: "ElectronContinuityEquation"	RelError: 9.22895e-05	AbsError: 4.62785e+09
+      Equation: "HoleContinuityEquation"	RelError: 3.07887e-06	AbsError: 6.94119e+10
+      Equation: "PotentialEquation"	RelError: 1.52433e-07	AbsError: 2.05013e-09
+Iteration: 6
+  Device: "MyDevice"	RelError: 2.36847e-12	AbsError: 1.48475e+03
+    Region: "MyRegion"	RelError: 2.36847e-12	AbsError: 1.48475e+03
+      Equation: "ElectronContinuityEquation"	RelError: 2.23690e-12	AbsError: 4.59816e+02
+      Equation: "HoleContinuityEquation"	RelError: 1.19489e-13	AbsError: 1.02493e+03
+      Equation: "PotentialEquation"	RelError: 1.20750e-14	AbsError: 1.65790e-16
+top	0.30000000000000004	2.1770837029988546e-11	2.934789898056989e-11	5.111873601055844e-11
+bot	0.0	-2.1839419328465026e-11	-2.927462761174651e-11	-5.1114046940211536e-11
+Region "MyRegion" on device "MyDevice" has equations 0:1484
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:1484
+number of equations 1485
+Iteration: 0
+  Device: "MyDevice"	RelError: 4.01193e+00	AbsError: 2.50983e+17
+    Region: "MyRegion"	RelError: 4.01193e+00	AbsError: 2.50983e+17
+      Equation: "ElectronContinuityEquation"	RelError: 7.94120e-01	AbsError: 1.26979e+17
+      Equation: "HoleContinuityEquation"	RelError: 7.92039e-01	AbsError: 1.24004e+17
+      Equation: "PotentialEquation"	RelError: 2.42577e+00	AbsError: 4.09542e-02
+Iteration: 1
+  Device: "MyDevice"	RelError: 6.11478e+00	AbsError: 3.74585e+16
+    Region: "MyRegion"	RelError: 6.11478e+00	AbsError: 3.74585e+16
+      Equation: "ElectronContinuityEquation"	RelError: 6.90609e-01	AbsError: 1.94629e+16
+      Equation: "HoleContinuityEquation"	RelError: 7.74392e-01	AbsError: 1.79956e+16
+      Equation: "PotentialEquation"	RelError: 4.64978e+00	AbsError: 3.07632e-02
+Iteration: 2
+  Device: "MyDevice"	RelError: 2.83375e+00	AbsError: 4.24224e+15
+    Region: "MyRegion"	RelError: 2.83375e+00	AbsError: 4.24224e+15
+      Equation: "ElectronContinuityEquation"	RelError: 5.12270e-01	AbsError: 2.06872e+15
+      Equation: "HoleContinuityEquation"	RelError: 4.99929e-01	AbsError: 2.17351e+15
+      Equation: "PotentialEquation"	RelError: 1.82155e+00	AbsError: 2.37542e-02
+Iteration: 3
+  Device: "MyDevice"	RelError: 4.56729e-01	AbsError: 1.01789e+15
+    Region: "MyRegion"	RelError: 4.56729e-01	AbsError: 1.01789e+15
+      Equation: "ElectronContinuityEquation"	RelError: 2.59081e-01	AbsError: 3.08448e+13
+      Equation: "HoleContinuityEquation"	RelError: 7.84009e-02	AbsError: 9.87042e+14
+      Equation: "PotentialEquation"	RelError: 1.19247e-01	AbsError: 9.16533e-03
+Iteration: 4
+  Device: "MyDevice"	RelError: 9.38126e-02	AbsError: 9.70008e+14
+    Region: "MyRegion"	RelError: 9.38126e-02	AbsError: 9.70008e+14
+      Equation: "ElectronContinuityEquation"	RelError: 8.54432e-02	AbsError: 7.77611e+13
+      Equation: "HoleContinuityEquation"	RelError: 3.56776e-03	AbsError: 8.92246e+14
+      Equation: "PotentialEquation"	RelError: 4.80159e-03	AbsError: 4.76395e-05
+Iteration: 5
+  Device: "MyDevice"	RelError: 9.49802e-05	AbsError: 1.38296e+11
+    Region: "MyRegion"	RelError: 9.49802e-05	AbsError: 1.38296e+11
+      Equation: "ElectronContinuityEquation"	RelError: 9.02805e-05	AbsError: 5.77889e+09
+      Equation: "HoleContinuityEquation"	RelError: 4.40968e-06	AbsError: 1.32517e+11
+      Equation: "PotentialEquation"	RelError: 2.90049e-07	AbsError: 2.79870e-09
+Iteration: 6
+  Device: "MyDevice"	RelError: 2.67587e-12	AbsError: 2.03874e+03
+    Region: "MyRegion"	RelError: 2.67587e-12	AbsError: 2.03874e+03
+      Equation: "ElectronContinuityEquation"	RelError: 2.41807e-12	AbsError: 2.06030e+02
+      Equation: "HoleContinuityEquation"	RelError: 2.48367e-13	AbsError: 1.83271e+03
+      Equation: "PotentialEquation"	RelError: 9.42891e-15	AbsError: 9.13700e-17
+top	0.4	1.0003002857039386e-09	1.3202885670009165e-09	2.320588852704855e-09
+bot	0.0	-1.0008539397358691e-09	-1.319730352690414e-09	-2.3205842924262834e-09
+Region "MyRegion" on device "MyDevice" has equations 0:1484
+Region "air1" on device "MyDevice" has no equations.
+Region "air2" on device "MyDevice" has no equations.
+Device "MyDevice" has equations 0:1484
+number of equations 1485
+Iteration: 0
+  Device: "MyDevice"	RelError: 2.45921e+01	AbsError: 2.73099e+17
+    Region: "MyRegion"	RelError: 2.45921e+01	AbsError: 2.73099e+17
+      Equation: "ElectronContinuityEquation"	RelError: 7.94078e-01	AbsError: 1.34651e+17
+      Equation: "HoleContinuityEquation"	RelError: 7.91969e-01	AbsError: 1.38448e+17
+      Equation: "PotentialEquation"	RelError: 2.30060e+01	AbsError: 4.09542e-02
+Iteration: 1
+  Device: "MyDevice"	RelError: 2.63055e+01	AbsError: 4.47464e+16
+    Region: "MyRegion"	RelError: 2.63055e+01	AbsError: 4.47464e+16
+      Equation: "ElectronContinuityEquation"	RelError: 6.88572e-01	AbsError: 2.42916e+16
+      Equation: "HoleContinuityEquation"	RelError: 7.76698e-01	AbsError: 2.04548e+16
+      Equation: "PotentialEquation"	RelError: 2.48403e+01	AbsError: 3.07632e-02
+Iteration: 2
+  Device: "MyDevice"	RelError: 2.37815e+00	AbsError: 5.75586e+15
+    Region: "MyRegion"	RelError: 2.37815e+00	AbsError: 5.75586e+15
+      Equation: "ElectronContinuityEquation"	RelError: 5.14086e-01	AbsError: 2.93989e+15
+      Equation: "HoleContinuityEquation"	RelError: 4.96102e-01	AbsError: 2.81598e+15
+      Equation: "PotentialEquation"	RelError: 1.36796e+00	AbsError: 2.47465e-02
+Iteration: 3
+  Device: "MyDevice"	RelError: 7.48741e-01	AbsError: 9.01470e+14
+    Region: "MyRegion"	RelError: 7.48741e-01	AbsError: 9.01470e+14
+      Equation: "ElectronContinuityEquation"	RelError: 2.73936e-01	AbsError: 1.37082e+13
+      Equation: "HoleContinuityEquation"	RelError: 7.87287e-02	AbsError: 8.87762e+14
+      Equation: "PotentialEquation"	RelError: 3.96077e-01	AbsError: 9.16533e-03
+Iteration: 4
+  Device: "MyDevice"	RelError: 9.08875e-02	AbsError: 7.81084e+14
+    Region: "MyRegion"	RelError: 9.08875e-02	AbsError: 7.81084e+14
+      Equation: "ElectronContinuityEquation"	RelError: 8.73181e-02	AbsError: 7.61707e+13
+      Equation: "HoleContinuityEquation"	RelError: 2.54994e-03	AbsError: 7.04913e+14
+      Equation: "PotentialEquation"	RelError: 1.01939e-03	AbsError: 4.08739e-05
+Iteration: 5
+  Device: "MyDevice"	RelError: 7.96931e-05	AbsError: 8.59580e+10
+    Region: "MyRegion"	RelError: 7.96931e-05	AbsError: 8.59580e+10
+      Equation: "ElectronContinuityEquation"	RelError: 7.70843e-05	AbsError: 4.75539e+09
+      Equation: "HoleContinuityEquation"	RelError: 2.55576e-06	AbsError: 8.12026e+10
+      Equation: "PotentialEquation"	RelError: 5.30477e-08	AbsError: 1.48938e-09
+Iteration: 6
+  Device: "MyDevice"	RelError: 2.29454e-12	AbsError: 1.27228e+03
+    Region: "MyRegion"	RelError: 2.29454e-12	AbsError: 1.27228e+03
+      Equation: "ElectronContinuityEquation"	RelError: 2.21365e-12	AbsError: 1.74692e+02
+      Equation: "HoleContinuityEquation"	RelError: 8.02078e-14	AbsError: 1.09759e+03
+      Equation: "PotentialEquation"	RelError: 6.75295e-16	AbsError: 1.03030e-16
+top	0.5	4.592247962966216e-08	5.93574361231845e-08	1.0527991575284665e-07
+bot	0.0	-4.592689854483539e-08	-5.9353014943288024e-08	-1.0527991348812341e-07

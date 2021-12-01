@@ -1,3 +1,5 @@
+# MSYS 2 Tests
+
 Windows 64 bit with latest Anaconda Python, and Intel MKL
 
 Please see ``run_tests.bat``.
@@ -11,4 +13,10 @@ Python 3 environment installed and actived
 
 The Anaconda prerequisites may be installed using preinstall.bat from the command prompt.
 
+```
+cd devsim_tests_msys
+preinstall.bat
+.\run_tests.bat v1.7.0
+```
+In the above example, the package ``devsim_win64_v1.7.0.zip`` has been unzipped into the test directory.
 

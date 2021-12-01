@@ -3,13 +3,6 @@ bot
  (region: MyRegion)
  (contact: top)
  (contact: bot)
-Region "MyRegion" on device "MyDevice" has equations 0:256
-Device "MyDevice" has equations 0:256
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 257:258
 creating solution dcop with 2 nodes
 number of equations 259
 creating solution dcop_prev with 2 nodes
@@ -78,18 +71,8 @@ Iteration: 12
     Region: "MyRegion"	RelError: 1.06743e-14	AbsError: 4.25501e-17
       Equation: "PotentialEquation"	RelError: 1.06743e-14	AbsError: 4.25501e-17
   Circuit: 	RelError: 0.00000e+00	AbsError: 0.00000e+00
-Circuit Solution:
-V1.I	0
-top_bias	0
 Warning: Replacing equation with equation of the same name.
 Region: MyRegion, Equation: PotentialEquation, Variable: Potential
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
 number of equations 773
 Iteration: 0
   Device: "MyDevice"	RelError: 4.57612e-14	AbsError: 1.02400e+04
@@ -98,17 +81,7 @@ Iteration: 0
       Equation: "HoleContinuityEquation"	RelError: 1.07724e-14	AbsError: 5.12000e+03
       Equation: "PotentialEquation"	RelError: 2.55199e-14	AbsError: 1.30175e-16
   Circuit: 	RelError: 1.57738e-13	AbsError: 1.57738e-23
-Circuit Solution:
-V1.I	1.57738e-23
-top_bias	0
 bot	0.0	6.1428066854224095e-09	7.390730106733574e-25	6.14280668542241e-09
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
 creating solution ssac_real with 2 nodes
 creating solution ssac_imag with 2 nodes
 Device: MyDevice	Region: MyRegion	Creating: Electrons_Real
@@ -117,21 +90,9 @@ Device: MyDevice	Region: MyRegion	Creating: Holes_Real
 Device: MyDevice	Region: MyRegion	Creating: Holes_Imag
 Device: MyDevice	Region: MyRegion	Creating: Potential_Real
 Device: MyDevice	Region: MyRegion	Creating: Potential_Imag
-Setting V1.I = (7.45906e-07,-1.31147e-06)
-Setting top_bias = (1,0)
 AC Iteration:
 number of equations 773
-Circuit AC Solution:
-V1.I	(7.45906e-07,-1.31147e-06)
-top_bias	(1,0)
 capacitance 0.0 2.0872714164325685e-07
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
 number of equations 773
 Iteration: 0
   Device: "MyDevice"	RelError: 1.55882e+01	AbsError: 2.08314e+17
@@ -189,32 +150,10 @@ Iteration: 7
       Equation: "HoleContinuityEquation"	RelError: 2.85149e-15	AbsError: 2.00379e+02
       Equation: "PotentialEquation"	RelError: 4.90667e-14	AbsError: 8.53942e-17
   Circuit: 	RelError: 8.10313e-15	AbsError: 3.54932e-23
-Circuit Solution:
-V1.I	-4.28018e-09
-top_bias	0.1
 bot	0.0	-2.0436664725889473e-08	-1.3887265822398563e-09	-2.182539130812933e-08
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
-Setting V1.I = (1.42086e-07,-1.39084e-06)
-Setting top_bias = (1,0)
 AC Iteration:
 number of equations 773
-Circuit AC Solution:
-V1.I	(1.42086e-07,-1.39084e-06)
-top_bias	(1,0)
 capacitance 0.1 2.213586629583667e-07
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
 number of equations 773
 Iteration: 0
   Device: "MyDevice"	RelError: 9.42039e+01	AbsError: 2.20978e+17
@@ -272,32 +211,10 @@ Iteration: 7
       Equation: "HoleContinuityEquation"	RelError: 1.43513e-15	AbsError: 1.34130e+02
       Equation: "PotentialEquation"	RelError: 7.05210e-16	AbsError: 3.27679e-17
   Circuit: 	RelError: 9.41200e-16	AbsError: 1.82158e-22
-Circuit Solution:
-V1.I	-1.93437e-07
-top_bias	0.2
 bot	0.0	-1.0396147795501239e-07	-6.419886908528688e-08	-1.6816034704029927e-07
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
-Setting V1.I = (-7.74407e-06,-1.48661e-06)
-Setting top_bias = (1,0)
 AC Iteration:
 number of equations 773
-Circuit AC Solution:
-V1.I	(-7.74407e-06,-1.48661e-06)
-top_bias	(1,0)
 capacitance 0.2 2.366013278773029e-07
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
 number of equations 773
 Iteration: 0
   Device: "MyDevice"	RelError: 1.76152e+01	AbsError: 2.36198e+17
@@ -348,32 +265,10 @@ Iteration: 6
       Equation: "HoleContinuityEquation"	RelError: 6.30766e-15	AbsError: 2.50305e+02
       Equation: "PotentialEquation"	RelError: 2.90694e-14	AbsError: 1.01508e-16
   Circuit: 	RelError: 3.43538e-11	AbsError: 2.99475e-16
-Circuit Solution:
-V1.I	-8.71728e-06
-top_bias	0.3
 bot	0.0	-5.805550754452361e-06	-2.9048976599496146e-06	-8.710448414401976e-06
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
-Setting V1.I = (-0.000332403,-1.60535e-06)
-Setting top_bias = (1,0)
 AC Iteration:
 number of equations 773
-Circuit AC Solution:
-V1.I	(-0.000332403,-1.60535e-06)
-top_bias	(1,0)
 capacitance 0.30000000000000004 2.55499675906818e-07
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
 number of equations 773
 Iteration: 0
   Device: "MyDevice"	RelError: 4.11263e+01	AbsError: 2.55026e+17
@@ -424,32 +319,10 @@ Iteration: 6
       Equation: "HoleContinuityEquation"	RelError: 1.56002e-15	AbsError: 2.33652e+02
       Equation: "PotentialEquation"	RelError: 3.59714e-14	AbsError: 6.66730e-17
   Circuit: 	RelError: 9.34094e-13	AbsError: 3.67441e-16
-Circuit Solution:
-V1.I	-0.000393366
-top_bias	0.4
 bot	0.0	-0.00026216591186608814	-0.0001311696330984732	-0.00039333554496456135
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
-Setting V1.I = (-0.0149818,-1.75801e-06)
-Setting top_bias = (1,0)
 AC Iteration:
 number of equations 773
-Circuit AC Solution:
-V1.I	(-0.0149818,-1.75801e-06)
-top_bias	(1,0)
-capacitance 0.4 2.7979624874600685e-07
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
+capacitance 0.4 2.797962487460081e-07
 number of equations 773
 Iteration: 0
   Device: "MyDevice"	RelError: 4.28085e+01	AbsError: 2.79301e+17
@@ -500,29 +373,14 @@ Iteration: 6
       Equation: "HoleContinuityEquation"	RelError: 1.13421e-15	AbsError: 2.24065e+02
       Equation: "PotentialEquation"	RelError: 8.97901e-16	AbsError: 4.52968e-17
   Circuit: 	RelError: 2.75886e-14	AbsError: 4.88757e-16
-Circuit Solution:
-V1.I	-0.0177159
-top_bias	0.5
 bot	0.0	-0.011807969034766537	-0.005907984595063336	-0.017715953629829872
-Region "MyRegion" on device "MyDevice" has equations 0:770
-Device "MyDevice" has equations 0:770
-0	18446744073709551615	ground
-GND	18446744073709551615	ground
-V1.I	0	mna
-top_bias	1	default
-Circuit  has equations 771:772
-Setting V1.I = (-0.674248,-1.96462e-06)
-Setting top_bias = (1,0)
 AC Iteration:
 number of equations 773
-Circuit AC Solution:
-V1.I	(-0.674248,-1.96462e-06)
-top_bias	(1,0)
-capacitance 0.5 3.126796884914351e-07
+capacitance 0.5 3.1267968849143385e-07
 V1.I	dcop	-0.017715927682806623
 V1.I	dcop_prev	-0.0003933657238622294
-V1.I	ssac_imag	-1.964624424582875e-06
-V1.I	ssac_real	-0.6742481807169455
+V1.I	ssac_imag	-1.964624424582867e-06
+V1.I	ssac_real	-0.6742481451909073
 top_bias	dcop	0.5
 top_bias	dcop_prev	0.4
 top_bias	ssac_imag	0.0

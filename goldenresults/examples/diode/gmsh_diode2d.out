@@ -14,8 +14,6 @@ Device diode2d has 501 coordinates with max index 501
 Region Bulk has 501 nodes.
 Contact bot in region Bulk with 21 nodes
 Contact top in region Bulk with 20 nodes
-Region "Bulk" on device "diode2d" has equations 0:500
-Device "diode2d" has equations 0:500
 number of equations 501
 Iteration: 0
   Device: "diode2d"	RelError: 1.00000e+00	AbsError: 8.93836e-02
@@ -71,8 +69,6 @@ Iteration: 12
       Equation: "PotentialEquation"	RelError: 7.90623e-16	AbsError: 5.67117e-17
 Warning: Replacing equation with equation of the same name.
 Region: Bulk, Equation: PotentialEquation, Variable: Potential
-Region "Bulk" on device "diode2d" has equations 0:1502
-Device "diode2d" has equations 0:1502
 number of equations 1503
 Iteration: 0
   Device: "diode2d"	RelError: 2.23644e-13	AbsError: 1.02400e+04
@@ -80,8 +76,6 @@ Iteration: 0
       Equation: "ElectronContinuityEquation"	RelError: 1.12213e-13	AbsError: 5.12000e+03
       Equation: "HoleContinuityEquation"	RelError: 1.10726e-13	AbsError: 5.12000e+03
       Equation: "PotentialEquation"	RelError: 7.04195e-16	AbsError: 1.47035e-16
-Region "Bulk" on device "diode2d" has equations 0:1502
-Device "diode2d" has equations 0:1502
 number of equations 1503
 Iteration: 0
   Device: "diode2d"	RelError: 3.98477e-13	AbsError: 2.76379e+02
@@ -91,8 +85,6 @@ Iteration: 0
       Equation: "PotentialEquation"	RelError: 6.36052e-16	AbsError: 3.98455e-17
 top	0.0	4.8011431122852694e-30	2.6222956638156674e-15	2.622295663815672e-15
 bot	0.0	7.722982790007944e-15	7.499236476700425e-30	7.722982790007952e-15
-Region "Bulk" on device "diode2d" has equations 0:1502
-Device "diode2d" has equations 0:1502
 number of equations 1503
 Iteration: 0
   Device: "diode2d"	RelError: 1.44651e+01	AbsError: 2.06897e+17
@@ -138,8 +130,6 @@ Iteration: 6
       Equation: "PotentialEquation"	RelError: 1.08643e-14	AbsError: 9.79744e-17
 top	0.1	2.847143085416986e-14	1.1078374625678758e-14	3.954980547984862e-14
 bot	0.0	-2.9380385336984456e-14	-1.3893166873250109e-14	-4.327355221023457e-14
-Region "Bulk" on device "diode2d" has equations 0:1502
-Device "diode2d" has equations 0:1502
 number of equations 1503
 Iteration: 0
   Device: "diode2d"	RelError: 1.33537e+02	AbsError: 2.21100e+17
@@ -185,8 +175,6 @@ Iteration: 6
       Equation: "PotentialEquation"	RelError: 1.28087e-14	AbsError: 4.24869e-16
 top	0.2	1.3148955030627558e-12	6.507090653150215e-13	1.9656045683777772e-12
 bot	0.0	-1.3231947766513927e-12	-6.423937617428239e-13	-1.9655885383942164e-12
-Region "Bulk" on device "diode2d" has equations 0:1502
-Device "diode2d" has equations 0:1502
 number of equations 1503
 Iteration: 0
   Device: "diode2d"	RelError: 3.26908e+01	AbsError: 2.35498e+17
@@ -232,8 +220,6 @@ Iteration: 6
       Equation: "PotentialEquation"	RelError: 7.14420e-14	AbsError: 1.85429e-16
 top	0.30000000000000004	5.94369902525016e-11	2.911921351017364e-11	8.855620376267523e-11
 bot	0.0	-5.948294973125931e-11	-2.907158933554752e-11	-8.855453906680684e-11
-Region "Bulk" on device "diode2d" has equations 0:1502
-Device "diode2d" has equations 0:1502
 number of equations 1503
 Iteration: 0
   Device: "diode2d"	RelError: 1.97379e+01	AbsError: 2.56181e+17
@@ -279,8 +265,6 @@ Iteration: 6
       Equation: "PotentialEquation"	RelError: 5.18611e-13	AbsError: 6.02020e-17
 top	0.4	2.6811086846423233e-09	1.313156710442943e-09	3.994265395085266e-09
 bot	0.0	-2.6814900554827785e-09	-1.3127716307810519e-09	-3.9942616862638304e-09
-Region "Bulk" on device "diode2d" has equations 0:1502
-Device "diode2d" has equations 0:1502
 number of equations 1503
 Iteration: 0
   Device: "diode2d"	RelError: 2.23497e+01	AbsError: 2.80770e+17

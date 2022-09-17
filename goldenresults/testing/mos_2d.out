@@ -224,17 +224,17 @@ Iteration: 15
     Region: "oxide"	RelError: 9.86359e-12	AbsError: 3.97568e-12
       Equation: "PotentialEquation"	RelError: 9.86359e-12	AbsError: 3.97568e-12
 Iteration: 16
-  Device: "mymos"	RelError: 1.63036e-12	AbsError: 1.69599e-13
-    Region: "bulk"	RelError: 1.63003e-12	AbsError: 1.69599e-13
-      Equation: "PotentialEquation"	RelError: 1.63003e-12	AbsError: 1.69599e-13
+  Device: "mymos"	RelError: 1.63039e-12	AbsError: 1.69599e-13
+    Region: "bulk"	RelError: 1.63006e-12	AbsError: 1.69599e-13
+      Equation: "PotentialEquation"	RelError: 1.63006e-12	AbsError: 1.69599e-13
     Region: "gate"	RelError: 1.52078e-16	AbsError: 9.06487e-17
       Equation: "PotentialEquation"	RelError: 1.52078e-16	AbsError: 9.06487e-17
     Region: "oxide"	RelError: 1.79886e-16	AbsError: 1.06408e-16
       Equation: "PotentialEquation"	RelError: 1.79886e-16	AbsError: 1.06408e-16
 Iteration: 17
-  Device: "mymos"	RelError: 6.71755e-16	AbsError: 1.24382e-16
-    Region: "bulk"	RelError: 2.67157e-16	AbsError: 1.24382e-16
-      Equation: "PotentialEquation"	RelError: 2.67157e-16	AbsError: 1.24382e-16
+  Device: "mymos"	RelError: 8.64137e-16	AbsError: 1.24382e-16
+    Region: "bulk"	RelError: 4.59539e-16	AbsError: 1.24382e-16
+      Equation: "PotentialEquation"	RelError: 4.59539e-16	AbsError: 1.24382e-16
     Region: "gate"	RelError: 2.07552e-16	AbsError: 1.23716e-16
       Equation: "PotentialEquation"	RelError: 2.07552e-16	AbsError: 1.23716e-16
     Region: "oxide"	RelError: 1.97046e-16	AbsError: 1.17453e-16
@@ -262,14 +262,14 @@ Replacing Edge Model HoleCurrent in region bulk of material Silicon
 Replacing Edge Model HoleCurrent in region bulk of material Silicon
 number of equations 7353
 Iteration: 0
-  Device: "mymos"	RelError: 8.20679e-13	AbsError: 4.19840e+04
-    Region: "bulk"	RelError: 2.24256e-13	AbsError: 4.19840e+04
+  Device: "mymos"	RelError: 8.20641e-13	AbsError: 4.19840e+04
+    Region: "bulk"	RelError: 2.24218e-13	AbsError: 4.19840e+04
       Equation: "ElectronContinuityEquation"	RelError: 4.26411e-15	AbsError: 2.04800e+04
       Equation: "HoleContinuityEquation"	RelError: 4.29994e-15	AbsError: 2.15040e+04
-      Equation: "PotentialEquation"	RelError: 2.15692e-13	AbsError: 4.48917e-14
+      Equation: "PotentialEquation"	RelError: 2.15654e-13	AbsError: 4.48921e-14
     Region: "gate"	RelError: 3.59689e-13	AbsError: 3.27680e+04
       Equation: "ElectronContinuityEquation"	RelError: 3.27680e-16	AbsError: 3.27680e+04
       Equation: "HoleContinuityEquation"	RelError: 3.33067e-16	AbsError: 3.33067e-16
       Equation: "PotentialEquation"	RelError: 3.59028e-13	AbsError: 2.14007e-13
-    Region: "oxide"	RelError: 2.36734e-13	AbsError: 1.41110e-13
-      Equation: "PotentialEquation"	RelError: 2.36734e-13	AbsError: 1.41110e-13
+    Region: "oxide"	RelError: 2.36734e-13	AbsError: 1.41109e-13
+      Equation: "PotentialEquation"	RelError: 2.36734e-13	AbsError: 1.41109e-13

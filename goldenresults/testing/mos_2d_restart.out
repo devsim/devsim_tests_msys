@@ -323,14 +323,14 @@ Warning: Replacing Contact Equation with Contact Equation of the same name.
 Contact: body, Equation: HoleContinuityEquation
 number of equations 7353
 Iteration: 0
-  Device: "mymos"	RelError: 5.96383e-14	AbsError: 4.91520e+04
-    Region: "bulk"	RelError: 2.35181e-14	AbsError: 8.01277e+03
+  Device: "mymos"	RelError: 5.96514e-14	AbsError: 4.91520e+04
+    Region: "bulk"	RelError: 2.35311e-14	AbsError: 8.01277e+03
       Equation: "ElectronContinuityEquation"	RelError: 6.55360e-16	AbsError: 6.55294e+03
       Equation: "HoleContinuityEquation"	RelError: 6.55360e-16	AbsError: 1.45983e+03
-      Equation: "PotentialEquation"	RelError: 2.22074e-14	AbsError: 2.20680e-15
-    Region: "gate"	RelError: 2.46237e-14	AbsError: 4.91520e+04
+      Equation: "PotentialEquation"	RelError: 2.22204e-14	AbsError: 2.20704e-15
+    Region: "gate"	RelError: 2.46238e-14	AbsError: 4.91520e+04
       Equation: "ElectronContinuityEquation"	RelError: 4.91520e-16	AbsError: 4.91520e+04
       Equation: "HoleContinuityEquation"	RelError: 4.91520e-16	AbsError: 4.91668e-16
       Equation: "PotentialEquation"	RelError: 2.36407e-14	AbsError: 1.40916e-14
-    Region: "oxide"	RelError: 1.14965e-14	AbsError: 6.85269e-15
-      Equation: "PotentialEquation"	RelError: 1.14965e-14	AbsError: 6.85269e-15
+    Region: "oxide"	RelError: 1.14965e-14	AbsError: 6.85267e-15
+      Equation: "PotentialEquation"	RelError: 1.14965e-14	AbsError: 6.85267e-15
